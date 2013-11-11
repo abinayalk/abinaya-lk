@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+
+$ git clone git://github.com/SpringSource/spring-mvc-showcase.git
